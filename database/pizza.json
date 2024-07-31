@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "ingredientes": ["tomate", "mozzarella", "pepperoni"],
+      "nombre": "Pizza Pepperoni",
+      "precio": 12.99,
+      "tamaño": "Mediana"
+    },
+    {
+      "id": 2,
+      "ingredientes": ["tomate", "mozzarella", "jamón", "piña"],
+      "nombre": "Pizza Hawaiana",
+      "precio": 13.49,
+      "tamaño": "Grande"
+    },
+    {
+      "id": 3,
+      "ingredientes": ["tomate", "mozzarella", "setas", "aceitunas"],
+      "nombre": "Pizza Vegetariana",
+      "precio": 11.99,
+      "tamaño": "Pequeña"
+    },
+    {
+      "id": 4,
+      "ingredientes": ["tomate", "mozzarella", "anchoas", "aceitunas"],
+      "nombre": "Pizza Napolitana",
+      "precio": 14.49,
+      "tamaño": "Mediana"
+    },
+    {
+      "id": 5,
+      "ingredientes": ["tomate", "mozzarella", "salami", "pimientos"],
+      "nombre": "Pizza Salami",
+      "precio": 12.49,
+      "tamaño": "Grande"
+    },
+    {
+      "id": 6,
+      "ingredientes": ["crema", "mozzarella", "pollo", "setas"],
+      "nombre": "Pizza Pollo y Setas",
+      "precio": 15.99,
+      "tamaño": "Grande"
+    },
+    {
+      "id": 7,
+      "ingredientes": ["tomate", "mozzarella", "queso azul", "peras"],
+      "nombre": "Pizza Queso Azul y Peras",
+      "precio": 16.49,
+      "tamaño": "Mediana"
+    },
+    {
+      "id": 8,
+      "ingredientes": ["tomate", "mozzarella", "bacon", "cebolla"],
+      "nombre": "Pizza Bacon y Cebolla",
+      "precio": 13.99,
+      "tamaño": "Pequeña"
+    },
+    {
+      "id": 9,
+      "ingredientes": ["crema", "mozzarella", "salchichas", "pimientos"],
+      "nombre": "Pizza Salchichas y Pimientos",
+      "precio": 14.99,
+      "tamaño": "Grande"
+    },
+    {
+      "id": 10,
+      "ingredientes": ["tomate", "mozzarella", "champiñones", "jamón"],
+      "nombre": "Pizza Jamón y Champiñones",
+      "precio": 12.99,
+      "tamaño": "Mediana"
+    }
+  ]
